@@ -1,4 +1,4 @@
-Real‑Time Hand & Object Detection with LLM Narration
+**Real‑Time Hand & Object Detection with LLM Narration
 Overview
 This project blends computer vision and language reasoning to create a real‑time scene‑understanding system. Using your webcam, it detects objects with YOLOv8, tracks hands with MediaPipe, and sends that information to a Groq LLM to generate a short natural‑language description of what’s happening in the scene.
 
